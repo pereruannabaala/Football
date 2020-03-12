@@ -2,14 +2,10 @@
 <html>
    <head>
        <title>Football</title>
-       <link href="css/styles.css"rel="stylesheet"type="text/css">
+       <link href="css/football.css"rel="stylesheet"type="text/css">
    </head>
    <body>
        <h1>Football</h1>
-       h1{
-        color:blue;
-        text-align:centre;
-             }
        <h2>what are fixtures this week</h2>
        <p>Everyone loves <strong>Football</strong></p>
        <p>including you</p>
